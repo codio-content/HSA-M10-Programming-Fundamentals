@@ -1,0 +1,410 @@
+{
+ "sections": [
+  {
+   "id": "4c68ba24-fa5a-29c9-21d9-9224f9aa67e9",
+   "title": "Lesson One: Learning to Program",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lesson-One--Learning-to-Program-4c68.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9f2348e2-0ca7-3a89-688d-5b0bd5ce8384",
+   "title": "First Steps with Python",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/First-Steps-with-Python-9f23.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e9e6da38-5fff-15ef-23f0-558b8cb19e59",
+   "title": "Python Properties",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Python-Properties-e9e6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "de31308a-2b4f-9c28-fa9c-5fe1f93b5713",
+   "title": "Challenge (10 points)",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--10-points--de31.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a5ebdce5-3bc4-3618-2013-cedf9f7b9bee",
+   "title": "Lesson Two: Algorithms",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lesson-Two--Algorithms-a5eb.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1e3173c8-cff2-3d50-6ff9-53e0807d813c",
+   "title": "Making a Peanut Butter and Jelly Sandwich",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Making-a-Peanut-Butter-and-Jelly-Sandwich-1e31.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6dc408f5-3e47-d195-71ef-26ef3f836f19",
+   "title": "Steps to Make the Sandwich",
+   "files": [
+    {
+     "path": "PBandJ.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Steps-to-Make-the-Sandwich-6dc4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "165431b0-c464-0047-9402-e2f67a01a5bf",
+   "title": "Sequence of Steps",
+   "files": [
+    {
+     "path": "SandwichMaking.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Sequence-of-Steps-1654.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ac120265-0eb0-e073-db9e-e5188cadc5c1",
+   "title": "Flow-Chart Decisions",
+   "files": [
+    {
+     "path": "PBandJconditionals.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Flow-Chart-Decisions-ac12.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "57e4b864-5409-b48c-b04b-48ee70ce2038",
+   "title": "Lesson Three:  Control Structures in Python",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "SandwichMakingConditions.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lesson-Three---Control-Structures-in-Python-57e4.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5784db14-f2b2-26f5-64c3-7e42c5c50326",
+   "title": "What is iteration?",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-iteration--5784.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4a6a7c15-1f28-e22a-f4f8-5adfa8aababd",
+   "title": "What is selection? ",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-selection---4a6a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0c1ed8c2-be7e-d068-ce27-19452fa17a92",
+   "title": "What is sequencing?",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-sequencing--0c1e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d1840d79-cce2-36cd-3206-601aea2a0a63",
+   "title": "Challenge ",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge--d184.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "662e3280-f91a-0440-a49c-9166f9455766",
+   "title": "Lesson Four: Sequencing in Python",
+   "files": [
+    {
+     "path": "BrushTeeth.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lesson-Four--Sequencing-in-Python-662e.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6ec6bd09-d81f-d1b5-1b08-f7105d573d74",
+   "title": "Lesson Five: Loops in Python",
+   "files": [
+    {
+     "path": "BrushTeethSteps.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lesson-Five--Loops-in-Python-6ec6.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f5925603-4069-f018-895a-bcdad18d3735",
+   "title": "Conditions and Counters",
+   "files": [
+    {
+     "path": "BrushTeethCondition.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Conditions-and-Counters-f592.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "185743d4-e7f0-67d1-39e8-3b196d4a961c",
+   "title": "For Loops",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/For-Loops-1857.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "28f9f8e7-3d1f-15b3-b750-fa8459fe64de",
+   "title": "While Loops",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/While-Loops-28f9.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c63a0118-8b01-0064-4553-e3def2646b3c",
+   "title": "Lesson Six: Conditional Statements in Python",
+   "files": [
+    {
+     "path": "IfThenElseGrades.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Lesson-Six--Conditional-Statements-in-Python-c63a.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "28cbffb7-8027-61ca-f49b-01c3b2c35eb6",
+   "title": "If-else Statements",
+   "files": [
+    {
+     "path": "Grades.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/If-else-Statements-28cb.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ded3c4c1-d16c-e52b-ea67-3fb19c8dc8f9",
+   "title": "Python Example of Selection",
+   "files": [
+    {
+     "path": "IfElseExample.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Python-Example-of-Selection-ded3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3e722c90-ff3b-75fc-3a99-4744977c2af3",
+   "title": "You Try it!",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/You-Try-it--3e72.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d60992fd-b3f4-67fc-3b6a-6c1980f7738e",
+   "title": "You Try it 1",
+   "files": [
+    {
+     "path": "Loop_Challenge1.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/You-Try-it-1-d609.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "beac8e61-bdb1-df3e-c20c-6d5af536222f",
+   "title": "You Try it 2",
+   "files": [
+    {
+     "path": "Loop_Challenge2.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/You-Try-it-2-beac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}

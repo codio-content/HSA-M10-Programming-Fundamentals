@@ -1,0 +1,262 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2763610335",
+  "source": {
+   "name": "QuizQuestion1",
+   "showName": true,
+   "instructions": "What is a program?",
+   "points": "4",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "f5910806-19af-d91c-92f4-a7f65980eb0f",
+     "correct": false,
+     "answer": "A flowchart written in flode"
+    },
+    {
+     "_id": "104fc8b4-fce2-d918-7f0e-4e85ce6f753e",
+     "correct": true,
+     "answer": "A series of step-by-step instructions that tell a computer how to solve a task"
+    },
+    {
+     "_id": "e51140c4-a315-269b-5705-8b7ba3aa90bf",
+     "correct": false,
+     "answer": "A video that is watched on a computer"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1551201318",
+  "source": {
+   "name": "QuizQuestion2",
+   "showName": true,
+   "instructions": "Choose the correct answer from the drop down list:",
+   "points": "3",
+   "showValues": true,
+   "text": "In a program, <<<statements>>> are <<<executed>>> or processed, one after the other in the order written by the <<<programmer>>>.",
+   "tokens": {
+    "blank": [
+     "statements",
+     "executed",
+     "programmer"
+    ],
+    "text": [
+     "In a program, ",
+     0,
+     " are ",
+     0,
+     " or processed, one after the other in the order written by the ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3405377664",
+  "source": {
+   "name": "QuizQuestion3",
+   "showName": true,
+   "instructions": "The process of breaking down a problem into a sequence of steps is known as a (an) __________.",
+   "points": "3",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "5dad4b23-7a35-f464-cac3-9253959e1812",
+     "correct": true,
+     "answer": "algorithm"
+    },
+    {
+     "_id": "5fe3f1cb-75e9-a452-7e7d-f8217391b925",
+     "correct": false,
+     "answer": "program"
+    },
+    {
+     "_id": "11a3bcce-095c-960b-57b8-e5786d448856",
+     "correct": false,
+     "answer": "execution"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-139988447",
+  "source": {
+   "name": "QuizQuestion4",
+   "showName": true,
+   "instructions": "Selection is: ",
+   "points": "2",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "1a4e2618-8376-0229-1f5e-270a325ad477",
+     "correct": true,
+     "answer": "A decision point in a program"
+    },
+    {
+     "_id": "304131b4-9171-5648-1ef2-ad6ff1297096",
+     "correct": false,
+     "answer": "Repeating a number of steps"
+    },
+    {
+     "_id": "55d33f31-dba0-fec6-a7d2-9c2e7eae468e",
+     "correct": false,
+     "answer": "The order in which instructions are carried out"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-5746180",
+  "source": {
+   "name": "QuizQuestion5",
+   "showName": true,
+   "instructions": "In programming how is selection implemented?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "26682ec8-886e-f206-3bde-d9e99bf335e2",
+     "correct": false,
+     "answer": "IF-OTHERWISE"
+    },
+    {
+     "_id": "6604585f-8261-12de-e41c-66f73817f915",
+     "correct": true,
+     "answer": "IF-ELSE\n"
+    },
+    {
+     "_id": "68a02e46-9118-8539-5dc3-d3294978098e",
+     "correct": false,
+     "answer": "DO-ELSE"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2407281865",
+  "source": {
+   "name": "QuizQuestion6",
+   "showName": true,
+   "instructions": "Why is selection important?",
+   "points": "2",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "b635cfa6-2133-cb9e-d69b-adbda492bfa3",
+     "correct": false,
+     "answer": "Selection allows a number of steps to be repeated\n"
+    },
+    {
+     "_id": "1ce5b31e-aa33-38c8-2906-4beef39f78a1",
+     "correct": true,
+     "answer": "Selection allows multiple paths through a program\n"
+    },
+    {
+     "_id": "c168b0ed-d901-8809-b94d-d9534817b72f",
+     "correct": false,
+     "answer": "Selection determines the order in which instructions are carried out\n"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-216414991",
+  "source": {
+   "name": "QuizQuestion7",
+   "showName": true,
+   "instructions": "In programming, what is iteration?",
+   "points": "2",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "956e13fd-10d8-dacf-4b98-b9f9f84ca47c",
+     "correct": false,
+     "answer": "The order in which instructions are carried out\n"
+    },
+    {
+     "_id": "65db37a1-6ac5-8f31-2907-c3cea61e51de",
+     "correct": true,
+     "answer": "The repetition of steps within a program\n"
+    },
+    {
+     "_id": "15db9427-fac5-1632-9e9b-4146e95654f9",
+     "correct": false,
+     "answer": "A decision point in a program\n"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-181550447",
+  "source": {
+   "name": "QuizQuestion8",
+   "showName": true,
+   "instructions": "Iteration is also known as:\n",
+   "points": "2",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "8280b541-671d-e4bc-2771-d3db1ca9cb87",
+     "correct": false,
+     "answer": "Looping\n"
+    },
+    {
+     "_id": "96689b0b-47f9-88d2-826c-6166d2b44fd1",
+     "correct": false,
+     "answer": "Crashing"
+    },
+    {
+     "_id": "19821dc4-a887-5ef9-61d3-e1419f80112c",
+     "correct": true,
+     "answer": "Repeating"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2219801191",
+  "source": {
+   "name": "QuizQuestion9",
+   "showName": true,
+   "instructions": "What does the statement 'while' do?",
+   "points": "2",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "300a48ec-0903-3c60-8cae-f7596cdaf3d7",
+     "correct": false,
+     "answer": "Tell the computer to wait for a while before continuing with the program\n"
+    },
+    {
+     "_id": "ce821be6-9e8a-1a17-c941-7e432648a7b1",
+     "correct": false,
+     "answer": "Implement selection\n"
+    },
+    {
+     "_id": "9227204c-fec9-bac2-c523-47f3d0899982",
+     "correct": true,
+     "answer": "Implement a loop\n"
+    }
+   ]
+  }
+ }
+]
