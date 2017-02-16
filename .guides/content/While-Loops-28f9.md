@@ -14,7 +14,7 @@ test(sum_to(4) == 10)
 test(sum_to(1000) == 500500)
 ```
 
-You can almost read the while statement as if it were English. 
+You can almost read the `while` statement as if it were English. 
 
 It means, while v is less than or equal to n, continue executing the body of the loop. Within the body, each time, increment v. When v passes n, return your accumulated sum.
 
@@ -30,7 +30,7 @@ The body of the loop should change the value of one or more variables so that ev
 
 In the case here, we can prove that the loop terminates because we know that the value of n is finite, and we can see that the value of v increments each time through the loop, so eventually it will have to exceed n. In other cases, it is not so easy, even impossible in some cases, to tell if the loop will ever terminate.
 
-What you will notice here is that the while loop is more work for you — the programmer — than the equivalent for loop. When using a while loop one has to manage the loop variable yourself: give it an initial value, test for completion, and then make sure you change something in the body so that the loop terminates. By comparison, here is an equivalent function that uses for instead:
+What you will notice here is that the `while` loop is more work for you — the programmer — than the equivalent `for` loop. When using a `while` loop one has to manage the loop variable yourself: give it an initial value, test for completion, and then make sure you change something in the body so that the loop terminates. By comparison, here is an equivalent function that uses `for` instead:
 ```
 	def sum_to(n):
     """ Return the sum of 1+2+3 ... n """

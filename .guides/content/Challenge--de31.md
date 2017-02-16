@@ -11,8 +11,3 @@
 In a program, **statements** are **executed** or processed, one after the other in the order written by the **programmer**.
 |||
 
-{Check It!|assessment}(multiple-choice-3405377664)
-|||guidance
-# Solution
-**algorithm**
-|||
